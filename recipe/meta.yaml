@@ -40,7 +40,6 @@ about:
   license_family: OTHER
   summary: 'install subroutines into packages easily'
   license_file: LICENSE
-    - LICENSE
 
 extra:
   recipe-maintainers:
